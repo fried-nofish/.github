@@ -11,7 +11,7 @@ Welcom NWPU SoccerRoboBase Fish Group!
 
 才能访问所有代码哦！
 
-在建立代码时，请注意要
+在建立代码仓库时，请注意要
 
 - 设为私有 (private)
 - 设置 - 协作者和队伍 (Collaborators and teams) 中添加 fired-nofish-team Secret 队伍，并设置为 Write
