@@ -1,6 +1,6 @@
 # NWPU SoccerRoboBase Fish Group
 
-Welcom to NWPU SoccerRoboBase Fish Group!
+Welcom to NWPU SoccerRoboBase Fish Group!  
 ようこそNWPU SoccerRoboBase Fish Groupへ！
 
 这里是西北工业大学足球机器人基地水下组（鱼组）
