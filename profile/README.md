@@ -18,3 +18,5 @@ Welcom to NWPU SoccerRoboBase Fish Group!
 - 设置 - 协作者和队伍 (Collaborators and teams) 中添加 fired-nofish-team 队伍，并设置为 Write
 
 才能让保护仓库的同时，让组员也能访问到你的仓库！
+
+[为组内成员准备的资源文档](https://github.com/fried-nofish/documents)
